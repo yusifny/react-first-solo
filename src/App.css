@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  pointer-events: none;
+  user-select: none;
+}
+
+body {
+  background: #23252c;
+}
+
+a {
+  pointer-events: all;
+}
+
+#root {
+  margin: 0 auto;
+  max-width: 317px;
+  border-radius: 12px;
+  background: #1a1b21;
+  font-family: Inter, sans-serif;
+  margin-top: 1rem;
+}
