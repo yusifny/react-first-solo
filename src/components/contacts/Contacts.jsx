@@ -4,11 +4,11 @@ export default function Contacts() {
   return (
     <div className="contacts">
       <a className="email" href="#">
-        <img src="src/assets/Mail.svg" alt="Email icon" />
+        <img src="assets/mail.svg" alt="Email" />
         Email
       </a>
       <a className="linkedin" href="#">
-        <img src="src/assets/linkedin.svg" alt="" />
+        <img src="assets/linkedin.svg" alt="LinkedIn" />
         LinkedIn
       </a>
     </div>
